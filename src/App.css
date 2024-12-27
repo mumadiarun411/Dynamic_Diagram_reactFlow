@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.diagram-container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 20%;
+  background: #f4f4f4;
+  padding: 10px;
+}
+
+.diagram-area {
+  width: 80%;
+  background: #eaeaea;
+}
+
+input {
+  display: block;
+  margin: 5px 0;
+  padding: 5px;
+  width: 90%;
+}
